@@ -35,8 +35,6 @@ Setup Environment: Ensure that Maya's Python environment is correctly configured
 - Clear Selection: Click the "Clear" button to deselect objects and clear the input window.
 
 ## Contributing
-Here are some guidelines:
-
 Fork the Repository: Make a fork of this repository to your GitHub account.
 Create a Branch: Develop your feature or fix it on a separate branch.
 
