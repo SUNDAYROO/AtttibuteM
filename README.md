@@ -34,22 +34,6 @@ Setup Environment: Ensure that Maya's Python environment is correctly configured
 - Modify or Delete Attribute: Enter the attribute name and click "Delete" to remove it.
 - Clear Selection: Click the "Clear" button to deselect objects and clear the input window.
 
-## Contributing
-Fork the Repository: Make a fork of this repository to your GitHub account.
-Create a Branch: Develop your feature or fix it on a separate branch.
-
-`git checkout -b feature/your-feature-name`
-
-Commit Changes: Make your changes and commit them with clear messages.
-
-`git commit -m "Add feature: description of the feature"`
-
-Push to GitHub: Push your changes to your forked repository.
-
-`git push origin feature/your-feature-name`
-
-Create a Pull Request: Submit a pull request to merge your changes into the main repository.
-
 ## Guide
 Before running the script, please refer to the ReadMe.txt file included in the project for detailed instructions and troubleshooting tips.
 
